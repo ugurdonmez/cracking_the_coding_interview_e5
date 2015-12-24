@@ -12,7 +12,7 @@ import java.util.*;
  * @author ugurdonmez
  */
 public class Solution_09 {
- 
+    
     public ArrayList<LinkedList<Integer>> allSequence(BinaryTreeNode node) {
         
         ArrayList<LinkedList<Integer>> result = new ArrayList<>();
